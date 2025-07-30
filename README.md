@@ -33,5 +33,8 @@ I learned how to train models, handle data, and deploy them using Flask
 
 #output
 
+<img width="548" height="584" alt="Image" src="https://github.com/user-attachments/assets/215cb29f-d7fe-4153-9ea0-a8533f8b298a" />
+
+<img width="504" height="585" alt="Image" src="https://github.com/user-attachments/assets/c407ca84-7ce3-4bfc-a75a-4e62b0877b8b" />
 
 
